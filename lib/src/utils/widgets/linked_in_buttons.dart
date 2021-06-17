@@ -29,6 +29,9 @@ class LinkedInButtonStandardWidget extends StatelessWidget {
         child: InkWell(
           onTap: onTap as void Function()?,
           child: Container(
+            decoration: BoxDecoration(
+              borderRadius: BorderRadius.all(Radius.circular(20))
+            ),
             color: Colors.blue,
             child: Row(
               mainAxisAlignment: MainAxisAlignment.center,
