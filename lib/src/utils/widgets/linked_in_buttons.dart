@@ -30,6 +30,9 @@ class LinkedInButtonStandardWidget extends StatelessWidget {
           onTap: onTap as void Function()?,
           child: Container(
             decoration: BoxDecoration(
+              border: Border.all(
+                color: Colors.red,
+              ),
               borderRadius: BorderRadius.all(Radius.circular(20))
             ),
             color: Colors.blue,
