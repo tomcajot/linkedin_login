@@ -1,3 +1,7 @@
+# My take on the linkedin_login package
+
+I just changed some things to enable basic_profile.
+
 # linkedin_login
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/76c714e1e1194d0e9d8652f332d3fd5d)](https://app.codacy.com/manual/d3xt3r2909/linkedin_login?utm_source=github.com&utm_medium=referral&utm_content=d3xt3r2909/linkedin_login&utm_campaign=Badge_Grade_Dashboard) [![codecov](https://codecov.io/gh/d3xt3r2909/linkedin_login/branch/master/graph/badge.svg?token=AX9dWsdz1H)](https://codecov.io/gh/d3xt3r2909/linkedin_login)
